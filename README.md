@@ -95,7 +95,6 @@ Architeture, build and write CI/CD system with Functional automated tests for e-
 
 Armed Forces of Ukraine 03/2022 – 12/2022
 
-Speroteck, Inc - Software QA Team Lead At Speroteck, Inc 
 Chernihiv, Chernihivska  •  11/2013 – 03/2022
 Worked as QA Team Lead on client projects (E-commerce websites) with QA team consist of 3+ Quality Assurance.
 Worked independently on client projects. Tested e-commerce websites B2B and B2C built on Magento and Salesforce Commerce Cloud (Demandware) platforms. Performed: manual (Smoke, Functional ,GUI, Integration and Regression Testing) and automated testing using Selenium WebDriver (Serenity, WebdriwerIO, JUnit, TestNG). Conducted mobile testing on sites with Responsive design. Performed cross-browser testing .
@@ -104,7 +103,6 @@ Perform management for QA team: plan allocations, organizing work of QA departme
 Speroteck - Project Support Manager 
 Chernihiv, Chernihivska  •  12/2013 - 05/2016 
 Leading Support Board (about 15 clients simultaneously) via Support tickets system OTRS. Connecting with client to discuss requirements and issues, leading tickets resolving process up to closing.
-Speroteck, Inc - QA Engineer 
 Chernihiv, Chernihivska  •  11/2012 - 11/2013 
 Worked independently on client projects. Tested e-commerce websites B2B and B2C built on Magento and Salesforce Commerce Cloud (Demandware) platforms. Performed: manual (Smoke, Functional ,GUI, Integration and Regression Testing) and automated testing using Selenium Webdriver (Serenity, WebdriwerIO, JUnit, TestNG). Conducted mobile testing on sites with Responsive design. Performed cross-browser testing.
 Speroteck, Inc - QA Trainee 
