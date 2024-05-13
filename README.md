@@ -1,9 +1,6 @@
 DMYTRO
 MAZEPA
- 
- 	mazek83@gmail.com
- 	+380934177255
- 	Narbuta, Chernihiv, 14021
+
 
 SKILLS
 Industry Knowledge:
